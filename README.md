@@ -1,4 +1,4 @@
-# string-manipulator
+# string-manipulation
 
 ## Description
 This will perform different sample ways on how to manipulate strings 
