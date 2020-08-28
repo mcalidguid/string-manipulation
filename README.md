@@ -3,20 +3,17 @@
 ## Description
 This will perform different sample ways as described below on how to manipulate strings 
 1. Swap Method - this will read a single line of string and convert all lowercase letters to uppercase letters and vice versa
-&nbsp;
-: ex.
-: - Input:  Hi! I am Jordan. BYE!
-: - Output: hI! i AM jORDAN. bye!
+&nbsp;&nbsp;&nbsp;&nbsp;ex.
+    Input:  Hi! I am Jordan. BYE!
+    Output: hI! i AM jORDAN. bye!
 2. Reverse and swap Method - this will reverse the word order and swap the case of all letters in the string
-&nbsp;
-: ex.
-: - Input:  hello OkIes
-: - Output: oKiES HELLO
+&nbsp;&nbsp;&nbsp;&nbsp;ex.
+    Input:  hello OkIes
+    Output: oKiES HELLO
 3. Split and join Method - this will split the string on a " " space delimiter and join using a - hyphen
-&nbsp;
-: ex.
-: - Input:  Jordan Italy Schlansky
-: - Output: Jordan-Italy-Schlansky
+&nbsp;&nbsp;&nbsp;&nbsp;ex.
+    Input:  Jordan Italy Schlansky
+    Output: Jordan-Italy-Schlansky
 
 This project uses the following concept:
 * if else statement
