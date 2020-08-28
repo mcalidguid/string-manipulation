@@ -3,17 +3,20 @@
 ## Description
 This will perform different sample ways as described below on how to manipulate strings 
 1. Swap Method - this will read a single line of string and convert all lowercase letters to uppercase letters and vice versa
-    ex.
-        Input:  Hi! I am Jordan. BYE!
-        Output: hI! i AM jORDAN. bye!
+&nbsp;
+: ex.
+: - Input:  Hi! I am Jordan. BYE!
+: - Output: hI! i AM jORDAN. bye!
 2. Reverse and swap Method - this will reverse the word order and swap the case of all letters in the string
-    ex.
-        Input:  hello OkIes
-    	Output: oKiES HELLO
+&nbsp;
+: ex.
+: - Input:  hello OkIes
+: - Output: oKiES HELLO
 3. Split and join Method - this will split the string on a " " space delimiter and join using a - hyphen
-    ex.
-        Input:  Jordan Italy Schlansky
-        Output: Jordan-Italy-Schlansky
+&nbsp;
+: ex.
+: - Input:  Jordan Italy Schlansky
+: - Output: Jordan-Italy-Schlansky
 
 This project uses the following concept:
 * if else statement
@@ -22,10 +25,10 @@ This project uses the following concept:
 * string
 
 ## How to Run
-1. Clone this repo to your local machine using https://github.com/mcalidguid/string-manipulator.git
+1. Clone this repo to your local machine using https://github.com/mcalidguid/string-manipulation.git
 2. For windows, open cmd
 ```
-cmd > C:\python38\python.exe C:\python\projects\string-manipulator\string-manipulator.py
+cmd > C:\python38\python.exe C:\python\projects\string-manipulation\string-manipulator.py
 ```
 _Note: Modify the path of python file accordingly_
 
