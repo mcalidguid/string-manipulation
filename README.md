@@ -1,7 +1,7 @@
 # string-manipulator
 
 ## Description
-This will perform different sample ways as described below on how to manipulate strings 
+This will perform different sample ways on how to manipulate strings 
 1. Swap Method - this will read a single line of string and convert all lowercase letters to uppercase letters and vice versa
 <br />ex.
 <br />Input:  Hi! I am Jordan. BYE!
