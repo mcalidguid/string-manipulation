@@ -1,7 +1,7 @@
 # string-manipulation
 
 ## Description
-This will perform different sample ways on how to manipulate strings 
+This will perform different simple ways on how to manipulate strings 
 1. Swap Method - this will read a single line of string and convert all lowercase letters to uppercase letters and vice versa
 <br />ex.
 <br />Input:  Hi! I am Jordan. BYE!
@@ -17,7 +17,7 @@ This will perform different sample ways on how to manipulate strings
 <br />Input:  Jordan Italy Schlansky
 <br />Output: Jordan-Italy-Schlansky
 
-This project uses the following concept:
+This program uses the following concept:
 * if else statement
 * loop
 * function
